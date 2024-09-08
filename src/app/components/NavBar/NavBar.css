@@ -1,0 +1,36 @@
+.navbar {
+    position: fixed;
+    background-color: rgb(29, 27, 31);
+    top: 0;
+    width: 100%;
+    overflow: visible;
+    height: 45px;
+    display: flex;
+    align-items: center;
+
+}
+
+.navbar h2 {
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+    color: rgba(73, 158, 214, 0.952);
+
+}
+
+.links {
+    display: flex;
+    margin-left: auto;
+    margin-right: 50px;
+}
+
+.linkItem {
+    padding-left: 40px;
+    cursor: pointer;
+    border-radius: 50%;
+}
+
+.linkItem :hover {
+    color: rgba(212, 211, 212, 0.932);
+
+}

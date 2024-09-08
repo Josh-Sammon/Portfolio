@@ -1,0 +1,24 @@
+.fixedButton {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    padding: 20px;
+}
+
+.roundedFixedBtn {
+    height: 60px;
+    line-height: 70px;
+    width: 60px;
+    font-size: 2em;
+    font-weight: bold;
+    border-radius: 25%;
+    background-color: #252933;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+}
+
+.arrowIcon :hover {
+    transform: scale(1);
+    transform: translatey(-2px);
+}
