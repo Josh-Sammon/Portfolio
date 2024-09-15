@@ -1,0 +1,35 @@
+.skillImage {
+    display: block;
+    margin: auto;
+    height: 200px;
+    width: 80%;
+}
+
+.arrowImage {
+    width: 10%;
+    height: 10%;
+    margin-bottom: -10%;
+    margin-top: 10%;
+}
+
+.arrowImage:hover {
+    cursor: pointer;
+    transform: scale(1.2);
+
+}
+
+.cSharpStyle {
+    color: #9b4993;
+}
+
+.reactStyle {
+    color: #00d8ff;
+}
+
+.htmlStyle {
+    color: #e44b24;
+}
+
+.cssStyle {
+    color: #2965f1;
+}

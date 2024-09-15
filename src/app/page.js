@@ -4,7 +4,7 @@ import styles from "./page.module.css";
 import AboutMe from "./components/AboutMe";
 import MySkills from "./components/MySkills";
 import Header from "./components/Header";
-import Carousel from "./components/Carousel";
+import Carousel from "./components/Carousel/Carousel";
 import Footer from "./components/Footer";
 import NavBar from "./components/NavBar/NavBar";
 import GoTop from "./components/goTop/TopButton";
