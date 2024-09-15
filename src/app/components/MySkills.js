@@ -22,20 +22,14 @@ export default function MySkills() {
                 </h2>
 
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu diam sit amet sem finibus lobortis.
-                    Curabitur fermentum rutrum ligula. Fusce nec convallis nibh, non venenatis felis.
-                    Vestibulum massa odio, mollis sed tristique in, pellentesque sed lacus.
-                    Curabitur ac enim placerat, luctus neque vel, porta neque. Nam malesuada, ipsum at porta condimentum, odio nisi viverra neque, at hendrerit augue quam ut nisi.
-                    Aenean bibendum placerat tristique.
+                    My experience with backend design gives me strong fundamentals I can build on to grow and become a better developer.
+                    I have experience with the full stack of software engineering from database design, API development, frontend creation and optimisation.
+                    I am always looking to improve my skillset and undertake new challenges and believe that I would be a great addition to the team.
+                    I have developed systems from the ground up featuring sql server databases, .NET APIs and multiple frontend implementations including AngularJs and React.
+                    Picking up new languages to further support my current skill set comes naturally to me.
                 </p>
 
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu diam sit amet sem finibus lobortis.
-                    Curabitur fermentum rutrum ligula. Fusce nec convallis nibh, non venenatis felis.
-                    Vestibulum massa odio, mollis sed tristique in, pellentesque sed lacus.
-                    Curabitur ac enim placerat, luctus neque vel, porta neque. Nam malesuada, ipsum at porta condimentum, odio nisi viverra neque, at hendrerit augue quam ut nisi.
-                    Aenean bibendum placerat tristique.
-                </p>
+
             </div>
         </div>
     );

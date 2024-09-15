@@ -18,12 +18,12 @@ const NavBar = () => {
                 <a className='linkItem' href="https://www.linkedin.com/in/josh-sammon/">
                     < FaLinkedin style={{ width: "25px", height: "25px" }} />
                 </a>
-                <a className='linkItem' href="Resume.pdf" download="Josh_Sammon_Resume">
+                <a className='linkItem' href="/Resume.pdf" download>
                     < FaDownload style={{ width: "25px", height: "25px" }} />
                 </a>
             </div>
 
-        </div>
+        </div >
     );
 }
 
