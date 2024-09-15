@@ -132,26 +132,7 @@
   border-radius: 5%;
 }
 
-.skillImage {
-  display: block;
-  margin: auto;
-  height: 200px;
-  width: 80%;
 
-}
-
-.arrowImage {
-  width: 10%;
-  height: 10%;
-  margin-bottom: -10%;
-  margin-top: 10%;
-}
-
-.arrowImage:hover {
-  cursor: pointer;
-  transform: scale(1.2);
-
-}
 
 .footer {
   position: relative;
