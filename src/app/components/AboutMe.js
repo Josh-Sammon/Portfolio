@@ -8,35 +8,31 @@ export default function AboutMe() {
     return (
         <div className={styles.aboutMePannel}>
             <div className={styles.details}>
-                <h2 style={{color:'black', paddingTop:'40px'}}>
+                <h2 style={{ color: 'black', paddingTop: '40px' }}>
                     About Me
                     <hr
                         style={{
-                        color: 'black',
-                        backgroundColor: 'black',
-                        height: '3px',
-                        marginLeft: '25%',
-                        width:'50%'}}
+                            color: 'black',
+                            backgroundColor: 'black',
+                            height: '3px',
+                            marginLeft: '25%',
+                            width: '50%'
+                        }}
                     />
                 </h2>
 
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu diam sit amet sem finibus lobortis. 
-                    Curabitur fermentum rutrum ligula. Fusce nec convallis nibh, non venenatis felis. 
-                    Vestibulum massa odio, mollis sed tristique in, pellentesque sed lacus. 
-                    Curabitur ac enim placerat, luctus neque vel, porta neque. Nam malesuada, ipsum at porta condimentum, odio nisi viverra neque, at hendrerit augue quam ut nisi. 
-                    Aenean bibendum placerat tristique.
+                    Hello! I am a software developer based in the North West of the UK.
+                    With a genuine passion for technology and a constant drive to expand my skillset, I thrive on tackling new challenges and finding innovative solutions.
+                    My approachable and friendly demeanor helps me collaborate effectively within teams and build lasting relationships.
+                    Outside of coding, I enjoy hitting the gym, exploring the great outdoors and experimenting in the kitchen.
                 </p>
 
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu diam sit amet sem finibus lobortis. 
-                    Curabitur fermentum rutrum ligula. Fusce nec convallis nibh, non venenatis felis. 
-                    Vestibulum massa odio, mollis sed tristique in, pellentesque sed lacus. 
-                    Curabitur ac enim placerat, luctus neque vel, porta neque. Nam malesuada, ipsum at porta condimentum, odio nisi viverra neque, at hendrerit augue quam ut nisi. 
-                    Aenean bibendum placerat tristique.
+                    I’m eager to bring my enthusiasm and dedication to a dynamic team where I can contribute to impactful projects and continue growing both professionally and personally.
                 </p>
 
-            </div>            
+            </div>
         </div>
     );
 }
